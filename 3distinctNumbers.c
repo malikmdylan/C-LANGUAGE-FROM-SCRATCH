@@ -1,3 +1,6 @@
+//c code to compare any three integers(distinct or equal)
+
+
 #include <stdio.h>
 int main() {
    int a, b,c;
