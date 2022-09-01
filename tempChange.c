@@ -1,4 +1,5 @@
 //change temperature from celsius to fahrenheit
+//BY MALIK M DYLAN
 #include <stdio.h>
 #include <math.h>
 void main()
