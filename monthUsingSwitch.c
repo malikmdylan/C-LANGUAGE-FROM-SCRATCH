@@ -1,4 +1,5 @@
 //display months of year using switch statement
+//BY MALIK M DYLAN
 #include<stdio.h>
 int main()
 {
