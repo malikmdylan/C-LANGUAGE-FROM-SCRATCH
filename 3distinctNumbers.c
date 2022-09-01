@@ -1,4 +1,5 @@
 //c code to compare any three integers(distinct or equal)
+//BY MALIK M DYLAN
 
 
 #include <stdio.h>
