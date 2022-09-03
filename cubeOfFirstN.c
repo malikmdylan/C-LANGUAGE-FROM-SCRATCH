@@ -1,4 +1,5 @@
 //find cube of first n natural numbers
+//BY MALIK M DYLAN
 #include <stdio.h>
 int main() {
     int n, i, sum = 0;
