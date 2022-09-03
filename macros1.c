@@ -9,3 +9,5 @@ void main()
     scanf("%d%d",&a,&b);
     greater(a,b);
 }
+
+//MARCOS
