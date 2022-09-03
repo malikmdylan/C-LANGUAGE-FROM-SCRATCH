@@ -1,4 +1,5 @@
 //check if number is even or odd
+//BY MALIK M DYLAN
 #include<stdio.h>
 int main()
 {
