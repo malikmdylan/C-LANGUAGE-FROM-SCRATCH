@@ -2,7 +2,7 @@
 //  main.c
 //  subtraction
 //
-//  Created by MALIK MUBARAK on 03/08/22.
+//  Created by MALIK M dylan on 03/08/22.
 //
 
 #include <stdio.h>
