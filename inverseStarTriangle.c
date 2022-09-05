@@ -1,4 +1,5 @@
 //print a downward triangular pattern of stars,take input from user.
+//BY MALIK MUBARAK
 #include<stdio.h>
 int main()
 {
