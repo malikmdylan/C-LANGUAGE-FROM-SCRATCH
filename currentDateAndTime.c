@@ -1,4 +1,5 @@
 // print current date and time.
+//BY MALIK MUBARAK
 #include<stdio.h>
 #include<time.h>
 void main()
