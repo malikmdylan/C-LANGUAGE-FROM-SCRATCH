@@ -1,5 +1,5 @@
 //find factorial of a number
-//BY MALIK M DYLAN
+//BY MALIK MUBARAK
 #include <stdio.h>
 int main() {
     int n, i, fact = 1;
