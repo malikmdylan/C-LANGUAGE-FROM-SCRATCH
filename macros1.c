@@ -1,5 +1,5 @@
 //use macros to find greatest of three numbers
-//BY MALIK M DYLAN
+//BY MALIK MUBARAK
 #include<stdio.h>
 #define greater(a,b) if (a>b) printf("%d is greater",a); else printf("%d is greater",b);
 void main()
