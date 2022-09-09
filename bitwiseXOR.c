@@ -1,4 +1,4 @@
-//by malik mubarak
+//EXAMPLE XOR
 #include<stdio.h>
 int main ( ) {
     int a=4,b=3;
