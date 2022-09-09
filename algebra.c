@@ -1,8 +1,8 @@
-//
+// ALGEBRA IN C 
 //  main.c
-//  subtraction
+//  
 //
-//  Created by MALIK M dylan on 03/08/22.
+//  
 //
 
 #include <stdio.h>
