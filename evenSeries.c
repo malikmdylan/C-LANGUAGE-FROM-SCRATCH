@@ -1,5 +1,4 @@
 //print even series.
-//CREATED BY MALIK MUBARAK
 #include<stdio.h>
 void main()
 {
