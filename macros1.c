@@ -1,4 +1,4 @@
-//use macros to find greatest of three numbers
+//to find greatest of three numbers using macros
 #include<stdio.h>
 #define greater(a,b) if (a>b) printf("%d is greater",a); else printf("%d is greater",b);
 void main()
