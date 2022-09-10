@@ -1,4 +1,4 @@
-//find square of first n natural numbers
+//square of first n natural numbers
 #include <stdio.h>
 int main() {
     int n, i, sum = 0;
