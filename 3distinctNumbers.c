@@ -1,4 +1,4 @@
-//c code to compare any three in
+//c code to compare any three dis
 
 
 
