@@ -1,4 +1,4 @@
-//c code to compare any three intege
+//c code to compare any three in
 
 
 
