@@ -1,4 +1,4 @@
-//check if a number is pri
+//check if a number is prim
  #include <stdio.h>
     int main() {
         int n, i, flag = 0;
