@@ -1,4 +1,4 @@
-//check if a number is prime or 
+//check if a number is prime or n
  #include <stdio.h>
     int main() {
         int n, i, flag = 0;
