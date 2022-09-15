@@ -1,4 +1,4 @@
-//check if a number is p
+//check if a number is pr
  #include <stdio.h>
     int main() {
         int n, i, flag = 0;
