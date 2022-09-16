@@ -1,4 +1,4 @@
-//code to take 
+//code to take an
 #include <stdio.h>
 int main()
 {
