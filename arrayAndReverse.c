@@ -1,3 +1,4 @@
+//code to take 
 #include <stdio.h>
 int main()
 {
