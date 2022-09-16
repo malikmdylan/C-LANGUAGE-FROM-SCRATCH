@@ -1,4 +1,4 @@
-//code to take an array from user and display the 
+//code to take an array from user and display the same and
 #include <stdio.h>
 int main()
 {
