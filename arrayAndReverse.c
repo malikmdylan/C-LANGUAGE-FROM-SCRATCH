@@ -1,4 +1,4 @@
-//code to take an
+//code to take an array of
 #include <stdio.h>
 int main()
 {
