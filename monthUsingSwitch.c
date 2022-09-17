@@ -8,7 +8,7 @@ int main()
     scanf("%d",&month);
     switch(month)
     {
-        case 1: printf("January  \n ")
+        case 1: printf("January  \n ");
             break;
         case 2: printf("February  \n ")
             break;
