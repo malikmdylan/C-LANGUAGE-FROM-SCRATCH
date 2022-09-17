@@ -12,7 +12,7 @@ int main()
             break;
         case 2: printf("February  \n ");
             break;
-        case 3: printf("March  \n ")
+        case 3: printf("March  \n ");
             break;
         case 4: printf("April   ")
             break;
