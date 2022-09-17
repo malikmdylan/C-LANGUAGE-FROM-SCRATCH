@@ -24,7 +24,7 @@ int main()
             break;
         case 8: printf("August  \n ");
             break;
-        case 9: printf("September  \n ")
+        case 9: printf("September  \n ");
             break;
         case 10: printf("October  \n ")
             break;
