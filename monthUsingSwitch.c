@@ -32,7 +32,7 @@ int main()
             break;
         case 12: printf("December  \n ");
             break;
-        default: printf("Invalid month \n  ")
+        default: printf("Invalid month \n  ");
     }
     return 0;
 }
